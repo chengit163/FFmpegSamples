@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FFmpegDemo</string>
+
+    <string name="configuration">configuration</string>
+    <string name="urlprotocol">Protocol</string>
+    <string name="avformat">Format</string>
+    <string name="avcodec">Codec</string>
+    <string name="avfilter">Filter</string>
+
+</resources>
